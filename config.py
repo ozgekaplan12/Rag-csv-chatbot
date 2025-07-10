@@ -1,0 +1,5 @@
+OLLAMA_BASE_URL = "http://localhost:11434"
+OLLAMA_MODEL = "mistral:latest"
+CHROMA_PERSIST_DIR = "./chroma_db"
+EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
+RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"

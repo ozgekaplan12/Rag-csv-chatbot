@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+chromadb
+langchain-community
+rank_bm25
+transformers
+pandas
