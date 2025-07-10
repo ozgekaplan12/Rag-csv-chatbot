@@ -2,6 +2,7 @@
 
 Bu proje, csv formatında etiketlenmiş kullanım kılavuzu verilerini kullanarak, bir soruya LLM (Large Language Model) desteğiyle en alakalı ve kısa cevabı vermeyi amaçlar.
 
+
 ## 🚀 Özellikler
 
 - `RAG (Retrieval-Augmented Generation)` mimarisi kullanır.
